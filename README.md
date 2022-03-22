@@ -1,4 +1,4 @@
-# <a href="url"><img src="https://user-images.githubusercontent.com/90220978/159585964-d0522c25-e564-4079-bf31-0c424481151a.jpg" align="middle" width="60" height="60"></a> Binary Trees
+# <a href="url"><img src="https://user-images.githubusercontent.com/90220978/159587236-e96e2a1e-8133-429b-a2d0-f40f8affb002.gif" align="middle" width="90" height="90"  text-align="center"></a> Binary Trees
 
 ![1_CMGFtehu01ZEBgzHG71sMg](https://user-images.githubusercontent.com/90220978/159586010-7496156c-e9ea-4543-824c-d5e16dc9257c.png)
 

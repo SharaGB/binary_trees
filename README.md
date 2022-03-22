@@ -1,4 +1,6 @@
-# Binary Trees
+# <a href="url"><img src="https://user-images.githubusercontent.com/90220978/159585964-d0522c25-e564-4079-bf31-0c424481151a.jpg" align="middle" width="60" height="60"></a> Binary Trees
+
+![1_CMGFtehu01ZEBgzHG71sMg](https://user-images.githubusercontent.com/90220978/159586010-7496156c-e9ea-4543-824c-d5e16dc9257c.png)
 
 <div class="well clean" id="project-description">
   <h2>Resources</h2>
@@ -100,5 +102,10 @@ typedef struct binary_tree_s binary_tree_t;
 <p>To match the examples in the tasks, you are given <a href="https://github.com/holbertonschool/0x1C.c" title="this function" target="_blank">this function</a></p>
 
 <p>This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction</p>
+  
+## Authors 🖋️
+
+* [__Daniel Duarte__](https://github.com/Daniel13713)
+* [__Shara García__](https://github.com/SharaGB)
 
 </div>

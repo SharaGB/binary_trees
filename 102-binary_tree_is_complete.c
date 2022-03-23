@@ -12,7 +12,7 @@ int countNodes(binary_tree_t *root)
 }
 
 /**
- * is_complete - Check if a given binary tree is complete or not
+ * isComplete - Check if a given binary tree is complete or not
  * @root: Pointer to tree's root
  * @index: Index of the node been evaluated
  * @n: Number of trees nodes

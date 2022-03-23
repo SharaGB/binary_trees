@@ -25,6 +25,23 @@ int _pow(int x, int y)
 }
 
 /**
+ * height - Mesure the tree's height
+ *
+ * @tree: pointer to tree to mesure
+ * Return: int, height
+ */
+
+int height(const binary_tree_t *tree)
+{
+	if (!tree)
+		return (0);
+
+	if (height(tree->left) > height(tree->right))
+		return (1 + height(tree->left));
+	return (1 + height(tree->right));
+}
+
+/**
  * count_nodes - count rigth and left nodes
  *
  * @tree: pointer to count
@@ -48,16 +65,16 @@ int count_nodes(const binary_tree_t *tree)
 
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {
-	int height = 0;
+	int h = 0;
 	int total_nodes = 0;
 
 	if (tree == NULL)
 		return (0);
 
-	height = binary_tree_height(tree);
+	h = height(tree);
 	total_nodes = count_nodes(tree);
 
-	if (_pow(2, height + 1) - 1 == total_nodes)
+	if (_pow(2, h) - 1 == total_nodes)
 		return (1);
 	return (0);
 }

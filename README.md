@@ -17,7 +17,7 @@
 
 <h2>Learning Objectives</h2>
 
-<p>At the end of this project, you are expected to be able to <a href="/rltoken/klZNog2ow2uGuFNMvk8mAQ" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
+<p>At the end of this project, you are expected to be able to <a href="https://fs.blog/feynman-learning-technique/" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
 
 <h3>General</h3>
 
@@ -106,6 +106,6 @@ typedef struct binary_tree_s binary_tree_t;
 ## Authors 🖋️
 
 * [__Daniel Duarte__](https://github.com/Daniel13713)
-* [__Shara García__](https://github.com/SharaGB)
+* [__Shara García__](https://www.linkedin.com/in/sharagb/)
 
 </div>
